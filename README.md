@@ -1,1 +1,1 @@
-jedzenie# SprawdzianJS
+SprawdzianJS
